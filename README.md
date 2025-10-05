@@ -3,7 +3,7 @@
 This GitHub repository is my code contribution for the VR Structural Beam Design Module for a project with the [SMARTI Lab](https://sychterz.cee.illinois.edu/) under Dr. Ann Sychterz. The goal of the overall project is to teach undergraduates about building system analysis and design using VR. The goal of this specific module is to teach undergraduate seniors about structural beam design in VR and to incorporate analysis results from the structural analysis program SAP2000 with VR.
 
 The paper for this part of the project can be found here:
-* [Case Study: Developing and Implementing VR Technology for Civil Engineering Education](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eXVH3MEAAAAJ&sortby=pubdate&citation_for_view=eXVH3MEAAAAJ:bEWYMUwI8FkC)
+* [Case Study: Developing and Implementing VR Technology for Civil Engineering Education](https://peer.asee.org/case-study-developing-and-implementing-vr-technology-for-civil-engineering-education)
 
 If you use any part of this code, ideas, or figures below, please be sure to cite these papers!!
 
