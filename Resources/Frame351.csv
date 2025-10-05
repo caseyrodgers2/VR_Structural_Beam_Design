@@ -1,0 +1,4 @@
+﻿Material,Shape,Size,i U1 (in),i U2 (in),i U3 (in),i R1 (rad),i R2 (rad),i R3 (rad),j U1 (in),j U2 (in),j U3 (in),j R1 (rad),j R2 (rad),j R3 (rad),Utilization Ratio,Width (in) | W shape size index (out of w shapes),Height (in),Thickness (in) | Thickness flange (in),Thickness web (in)
+Steel,W,16x31,-0.020945,0.000923,-0.355429,-0.001002,0.000289,-2.20E-05,-0.014471,0.001406,-0.186041,0.001485,0.000627,-1.60E-05,0.382245,5.53,15.9,0.44,0.275
+Steel,HSS,7x7x1/2,-0.020941,0.000954,-0.353358,-0.001165,0.000287,-2.20E-05,-0.014466,0.001436,-0.186241,0.001524,0.00063,-1.60E-05,0.038088,7,7,0.465,
+Steel,Built up I Beam,0.5 in Plates,-0.020945,0.00091,-0.358952,-0.000915,0.000294,-2.20E-05,-0.014472,0.001388,-0.186766,0.001471,0.00063,-1.60E-05,0.097678,0,0.5,,
